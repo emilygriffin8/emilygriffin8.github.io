@@ -1,5 +1,13 @@
 body { 
 	background-color: rgb(222,183,217); 
 	padding: 100px;
-	color: rgb(222,183,277);
+	color: #5a0e6a;
 	}
+
+a {
+	color: #e6e4e6;
+	text-decoration: none;
+
+}
+
+a:hover	{ color: #5a0e6a; } 
